@@ -1,0 +1,4 @@
+- ## Ejercicios Integradores y Colecciones de Ejercicios
+	- ### [Colección de Ejercicios](./Colección-Ejercicios.doc)
+	- ### [Ejercicio Integrador](./Ejercicio-integrador.docx)
+		- #### [Solución](./Ejercicio-integrador-Solucion.docx)

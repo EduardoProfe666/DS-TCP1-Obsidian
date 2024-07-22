@@ -1,0 +1,6 @@
+- ## Conferencias Principales de la Asignatura
+	- ### [C1 Arquitectura de Software](./C1.pptx)
+	- ### [C2 Estilos y Patrones Arquitectónicos](./C2.ppt)
+	- ### [C4 Principios de Diseño](./C4.pptx)
+	- ### [C5 Patrones de Diseño](./C5.pptx)
+	- ### [C6 Reutilización. Desarrollo Huésped-Objetivo. Gestión de la configuración. Desarrollo de código abierto](./C6.pptx)

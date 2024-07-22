@@ -1,0 +1,3 @@
+- ## Parciales Anteriores
+	- ### [Parcial 1](./TC1.docx)
+		- #### [Solución](./TC1-Solución.docx)

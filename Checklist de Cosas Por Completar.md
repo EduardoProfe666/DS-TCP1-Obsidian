@@ -1,0 +1,19 @@
+
+- [ ] Estilos y Patrones Arquitectónicos
+	- [x] [[Estilos Arquitectónicos]]
+	- [ ] [[Patrones Arquitectónicos]]
+	- [x] [[Otros Patrones]]
+- [ ] Patrones de Diseño
+	- [ ] [[Patrones GRASP]]
+	- [ ] [[Patrones GoF]]
+		- [x] [[Refactoring Guru]]
+- [ ] Principios de Diseño
+	- [ ] [[Principios SOLID]]
+	- [ ] [[Otros Principios]]
+- [x] Cosas de IR
+	- [x] [[Problemas Frecuentes]]
+- [x] Ejercicios, Parciales y Conferencias
+	- [x] [[Ejercicios]]
+	- [x] [[Parciales]]
+	- [x] [[Conferencias]]
+	- [x] [[CP]]
