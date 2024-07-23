@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f37fab30b5d54541",
+        "id": "455bd878d4e951ca",
         "type": "tabs",
         "children": [
           {
-            "id": "41930a1cf3e109a2",
+            "id": "ccb525f19e6d064d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Checklist de Cosas Por Completar.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -157,7 +153,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41930a1cf3e109a2",
+  "active": "e7071a2fb87f4322",
   "lastOpenFiles": [
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Filtros y Tuberías.md",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/SOA.md",
