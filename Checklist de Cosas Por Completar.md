@@ -1,7 +1,7 @@
 
-- [ ] Estilos y Patrones Arquitectónicos
+- [x] Estilos y Patrones Arquitectónicos
 	- [x] [[Estilos Arquitectónicos]]
-	- [ ] [[Patrones Arquitectónicos]]
+	- [x] [[Patrones Arquitectónicos]]
 	- [x] [[Otros Patrones]]
 - [ ] Patrones de Diseño
 	- [ ] [[Patrones GRASP]]

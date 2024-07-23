@@ -12,6 +12,8 @@
 		- #### [[Otros Principios]]
 	- ### Cosas de IR
 		- #### [[Problemas Frecuentes]]
+	- ### Notas de clases
+		- #### [[Notas de la clase]]
 - ## Ejercicios, Parciales y Conferencias
 	- ### [[Ejercicios]]
 	- ### [[Parciales]]
