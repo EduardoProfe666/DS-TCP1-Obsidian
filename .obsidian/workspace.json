@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e973ec52e3a12bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contenido/Patrones de Diseño/Patrones GoF/Abstract Factory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5df5f66ff1d30fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contenido/Patrones de Diseño/Patrones GoF/Visitor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c8046184abb58097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contenido/Patrones de Diseño/Patrones GoF/RefactoringGuru/Refactoring Guru.md",
+                "file": "Contenido/Principios de Diseño/Principios SOLID/Inversión de Dependencia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contenido/Patrones de Diseño/Patrones GoF/Visitor.md",
+                "file": "Contenido/Principios de Diseño/Principios SOLID/Inversión de Dependencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contenido/Patrones de Diseño/Patrones GoF/Visitor.md",
+                "file": "Contenido/Principios de Diseño/Principios SOLID/Inversión de Dependencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contenido/Patrones de Diseño/Patrones GoF/Visitor.md"
+                "file": "Contenido/Principios de Diseño/Principios SOLID/Inversión de Dependencia.md"
               }
             }
           },
@@ -182,10 +157,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5df5f66ff1d30fb",
+  "active": "c8046184abb58097",
   "lastOpenFiles": [
-    "Contenido/Patrones de Diseño/Patrones GoF/Template Method.md",
+    "Contenido/Principios de Diseño/Principios SOLID/Principios SOLID.md",
+    "Contenido/Principios de Diseño/Principios SOLID/Open Close.md",
+    "Contenido/Principios de Diseño/Principios SOLID/Segregación de Interfaces.md",
+    "Contenido/Principios de Diseño/Principios SOLID/Sustitución de Liskov.md",
+    "Contenido/Principios de Diseño/Principios SOLID/Única Responsabilidad.md",
+    "Contenido/Principios de Diseño/Principios SOLID/Inversión de Dependencia.md",
+    "Contenido/Principios de Diseño/Principios SOLID/Inversión de Dependencias.md",
+    "Contenido/Principios de Diseño/Otros Principios/Otros Principios.md",
+    "Contenido/Principios de Diseño/Otros Principios/Diseñar hacia las interfaces, no hacia las implementaciones.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/RefactoringGuru/Refactoring Guru.md",
+    "Contenido/Principios de Diseño/Otros Principios/Imagenes/Pasted image 20240723120514.png",
+    "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/MVC.md",
+    "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/MVC 1.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Abstract Factory.md",
+    "Contenido/Estilo y Patrones Arquitectónicos/Estilos Arquitectónicos/Llamada y Retorno.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Adapter.md",
+    "Ejercicios, CP, Parciales y Conferencias/Parciales Anteriores/~$1-Pasado-A.docx",
     "Contenido/Patrones de Diseño/Patrones GoF/Visitor.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Template Method.md",
     "Contenido/Patrones de Diseño/Patrones GoF/Strategy.md",
     "Contenido/Patrones de Diseño/Patrones GoF/State.md",
     "Contenido/Patrones de Diseño/Patrones GoF/Singleton.md",
@@ -195,23 +187,7 @@
     "Contenido/Patrones de Diseño/Patrones GoF/Observer.md",
     "Contenido/Patrones de Diseño/Patrones GoF/Memento.md",
     "Contenido/Patrones de Diseño/Patrones GoF/Mediator.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Iterator.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Interpreter.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Flyweight.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Factory Method.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Facade.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Decorator.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Composite.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Command.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Chain Of Responsability.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Builder.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Bridge.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Adapter.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Abstract Factory.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/RefactoringGuru/Refactoring Guru.md",
     "Contenido/Patrones de Diseño/Patrones GoF/Imagenes/Pasted image 20240723145441.png",
-    "Contenido/Principios de Diseño/Principios SOLID/Open Close.md",
-    "Ejercicios, CP, Parciales y Conferencias/Parciales Anteriores/~$1-Pasado-A.docx",
     "Ejercicios, CP, Parciales y Conferencias/Parciales Anteriores/TC1-Pasado-B.docx",
     "Ejercicios, CP, Parciales y Conferencias/Parciales Anteriores/TC1-Pasado-A.docx",
     "Refactoring~20Guru",
@@ -226,7 +202,6 @@
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722224238.png",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722224235.png",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722224134.png",
-    "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722224000.png",
     "Ejercicios, CP, Parciales y Conferencias/Conferencias/~$C2.ppt",
     "Contenido/Notas de Clases",
     "LICENSE",
