@@ -1,8 +1,8 @@
 ## Descripción
 
-- La composición permite una mayor flexibilidad ya que facilita la modificación y extensión del comportamiento de los objetos en tiempo de ejecución, simplemente cambiando las instancias de los objetos contenidos.
+La composición permite una mayor flexibilidad ya que facilita la modificación y extensión del comportamiento de los objetos en tiempo de ejecución, simplemente cambiando las instancias de los objetos contenidos.
 
-- El principio de diseño de software "Favorecer la composición antes que la herencia" sugiere que es preferible construir relaciones entre objetos mediante la composición de objetos más pequeños con comportamientos específicos, en lugar de utilizar la herencia para extender funcionalidades de una clase base o padre. Este enfoque promueve un diseño más flexible y mantenible, permitiendo reutilizar y combinar comportamientos de manera más efectiva sin estar atado a una jerarquía rígida de clases.
+El principio de diseño de software "Favorecer la composición antes que la herencia" sugiere que es preferible construir relaciones entre objetos mediante la composición de objetos más pequeños con comportamientos específicos, en lugar de utilizar la herencia para extender funcionalidades de una clase base o padre. Este enfoque promueve un diseño más flexible y mantenible, permitiendo reutilizar y combinar comportamientos de manera más efectiva sin estar atado a una jerarquía rígida de clases.
 ## Ejemplo
 
 Consideremos un ejemplo clásico de modelado de vehículos. Un enfoque basado en herencia podría verse así:

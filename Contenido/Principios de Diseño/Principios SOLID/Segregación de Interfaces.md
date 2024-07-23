@@ -1,10 +1,10 @@
 ## Descripción
 
-•       Principio de subdivisión de Interfaces: Los clientes no deberían depender de interfaces que no emplean.
+•       Principio de subdivisión de Interfaces: Los clientes no deberían depender de interfaces que no emplean. Dicho de otra manera, cuando un cliente depende de una clase que implementa una interfaz cuya funcionalidad este cliente no usa, pero que otros clientes sí usan, este cliente estará siendo afectado por los cambios que fuercen otros clientes en dicha interfaz.
 
 •       Las interfaces deberían ser tan pequeñas como sea posible, de modo que mantengan la cohesión de las funciones que declaran.
 
-•       Si una misma interfaz es empleada por más de un tipo de cliente, y cada uno tiene sus necesidades separadas, posiblemente la solución será dividir esta interfaz “gruesa” en dos para hacer cada una de las nuevas interfaces ajustada a las necesidades de su cliente.
+•       Si una misma interfaz es empleada por más de un tipo de cliente, y cada uno tiene sus necesidades separadas, posiblemente la solución será dividir esta interfaz “gruesa” en dos para hacer cada una de las nuevas interfaces ajustada a las necesidades de su cliente. Así, cada clase implementa las interfaces de la que realmente necesita implementar sus métodos. A la hora de añadir nuevas funcionalidades, esto nos ahorrará bastante tiempo, y además, cumplimos con el primer principio (Responsabilidad Única).
 
 ## Ejemplo
 
