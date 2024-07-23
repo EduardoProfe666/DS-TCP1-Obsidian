@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "455bd878d4e951ca",
+        "id": "cc56158a98011b19",
         "type": "tabs",
         "children": [
           {
-            "id": "ccb525f19e6d064d",
+            "id": "35db29aa955e4779",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Checklist de Cosas Por Completar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Checklist de Cosas Por Completar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Checklist de Cosas Por Completar.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,12 +149,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7071a2fb87f4322",
+  "active": "35db29aa955e4779",
   "lastOpenFiles": [
+    "Ejercicios, CP, Parciales y Conferencias/Parciales Anteriores/Parciales.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Mediator.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Visitor.md",
+    "Contenido/Cosas de IR/Problemas Frecuentes.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Refactoring Guru/Refactoring Guru.md",
+    "Índice Principal.md",
+    "Checklist de Cosas Por Completar.md",
+    "Contenido/Patrones de Diseño/Patrones GRASP/Patrones GRASP.md",
+    "Contenido/Patrones de Diseño/Patrones GRASP/Bajo Acoplamiento.md",
+    "Ejercicios, CP, Parciales y Conferencias/Ejercicios/Ejercicios.md",
+    "Ejercicios, CP, Parciales y Conferencias/CP/CP.md",
+    "Contenido/Patrones de Diseño/Patrones GRASP/Polimorfismo.md",
+    "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Repositorio.md",
+    "Contenido/Estilo y Patrones Arquitectónicos/Estilos Arquitectónicos/Centrado en Datos.md",
+    "Ejercicios, CP, Parciales y Conferencias/Conferencias/Conferencias.md",
+    "Ejercicios, CP, Parciales y Conferencias/Conferencias/~$C1.pptx",
+    "Contenido/Patrones de Diseño/Patrones GRASP/Creador.md",
+    "Contenido/Patrones de Diseño/Patrones GRASP/Indirección.md",
+    "Contenido/Patrones de Diseño/Patrones GRASP/Fabricación Pura.md",
+    "Contenido/Patrones de Diseño/Patrones GRASP/Experto.md",
+    "Contenido/Patrones de Diseño/Patrones GRASP/Controlador.md",
+    "Contenido/Patrones de Diseño/Patrones GRASP/Alta Cohesión.md",
+    "Ejercicios, CP, Parciales y Conferencias/Conferencias/~$C5.pptx",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Filtros y Tuberías.md",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/SOA.md",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722224659.png",
-    "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Repositorio.md",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722224343.png",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722224238.png",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722224235.png",
@@ -171,35 +189,14 @@
     "Sin título.md",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/N-Capas.md",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/N-Capa Reutilizacion Eva.png",
-    "Sin título 1.md",
-    "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/MVC.md",
-    "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Cliente-Servidor.md",
-    "Contenido/Estilo y Patrones Arquitectónicos/Otros Patrones/Representation Abstraction Control.md",
-    "Contenido/Estilo y Patrones Arquitectónicos/Otros Patrones/Reflection.md",
-    "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Arquitectura Basada en Componentes.md",
-    "Contenido/Estilo y Patrones Arquitectónicos/Otros Patrones/MicroKernel.md",
-    "Ejercicios, CP, Parciales y Conferencias/Conferencias/Conferencias.md",
     "Ejercicios, CP, Parciales y Conferencias/Conferencias/~$C2.ppt",
-    "Índice Principal.md",
-    "Checklist de Cosas Por Completar.md",
-    "Contenido/Notas de Clases/Notas de la clase.md",
-    "Contenido/Sin título.md",
     "Contenido/Notas de Clases",
-    "Contenido/Principios de Diseño/Principios SOLID/Principios SOLID.md",
-    "MongoDB.md",
     "LICENSE",
-    "Contenido/Patrones de Diseño/Patrones GoF/State.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Patrones GoF.md",
-    "Contenido/Estilo y Patrones Arquitectónicos/Otros Patrones/Broker.md",
-    "Contenido/Estilo y Patrones Arquitectónicos/Otros Patrones/Otros Patrones.md",
-    "Ejercicios, CP, Parciales y Conferencias/Ejercicios/Ejercicios.md",
-    "Ejercicios, CP, Parciales y Conferencias/Conferencias/~$C1.pptx",
     "Ejercicios, CP, Parciales y Conferencias/Ejercicios/~WRL1632.tmp",
     "Ejercicios, CP, Parciales y Conferencias/Ejercicios/~WRD1612.tmp",
     "Ejercicios, CP, Parciales y Conferencias/Ejercicios/~$ercicio-integrador.docx",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/N-Capa Reutilizacion Eva.jpeg.crdownload",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pizarra Estrada.jpeg.crdownload",
-    "Ejercicios, CP, Parciales y Conferencias/Ejercicios/~$ercicio-integrador-Solucion.docx",
     "Sin título.canvas"
   ]
 }

@@ -6,7 +6,6 @@
 	- ### [[Experto]]
 	- ### [[Fabricación Pura]]
 	- ### [[Indirección]]
-	- ### [[No hables con extraños]]
 	- ### [[Polimorfismo]]
 
 ### Ver patrones GRASP en Conferencia 5 de [[Conferencias]]
