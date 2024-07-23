@@ -1,3 +1,5 @@
 - ## Parciales Anteriores
 	- ### [Parcial 1](./TC1.docx)
 		- #### [Solución](./TC1-Solución.docx)
+	- #### [Parcial 1 Pasado A](./TC1-Pasado-A.docx)
+	- #### [Parcial 1 Pasado B](./TC1-Pasado-B.docx)

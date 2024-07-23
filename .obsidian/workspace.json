@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contenido/Patrones de Diseño/Patrones GRASP/Polimorfismo.md",
+                "file": "Contenido/Patrones de Diseño/Patrones GoF/Abstract Factory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5df5f66ff1d30fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contenido/Patrones de Diseño/Patrones GoF/Visitor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8046184abb58097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contenido/Patrones de Diseño/Patrones GoF/RefactoringGuru/Refactoring Guru.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contenido/Patrones de Diseño/Patrones GRASP/Polimorfismo.md",
+                "file": "Contenido/Patrones de Diseño/Patrones GoF/Visitor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contenido/Patrones de Diseño/Patrones GRASP/Polimorfismo.md",
+                "file": "Contenido/Patrones de Diseño/Patrones GoF/Visitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contenido/Patrones de Diseño/Patrones GRASP/Polimorfismo.md"
+                "file": "Contenido/Patrones de Diseño/Patrones GoF/Visitor.md"
               }
             }
           },
@@ -157,39 +182,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e973ec52e3a12bf4",
+  "active": "c5df5f66ff1d30fb",
   "lastOpenFiles": [
-    "Contenido/Patrones de Diseño/Patrones GRASP/Patrones GRASP.md",
-    "Contenido/Patrones de Diseño/Patrones GRASP/Indirección.md",
-    "Contenido/Patrones de Diseño/Patrones GRASP/Fabricación Pura.md",
-    "Contenido/Patrones de Diseño/Patrones GRASP/Experto.md",
-    "Factory.md",
-    "Warning.md",
-    "Contenido/Patrones de Diseño/Patrones GRASP/Creador.md",
-    "Contenido/Patrones de Diseño/Patrones GRASP/Alta Cohesión.md",
-    "Contenido/Patrones de Diseño/Patrones GRASP/Controlador.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Template Method.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Visitor.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Strategy.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/State.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Singleton.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Proxy.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Prototype.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Patrones GoF.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Observer.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Memento.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Mediator.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Iterator.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Interpreter.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Flyweight.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Factory Method.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Facade.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Decorator.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Composite.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Command.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Chain Of Responsability.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Builder.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Bridge.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Adapter.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Abstract Factory.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/RefactoringGuru/Refactoring Guru.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Imagenes/Pasted image 20240723145441.png",
     "Contenido/Principios de Diseño/Principios SOLID/Open Close.md",
-    "Contenido/Patrones de Diseño/Patrones GRASP/Bajo Acoplamiento.md",
-    "Contenido/Principios de Diseño/Otros Principios/Encapsular la variabilidad.md",
-    "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/MVC.md",
-    "Contenido/Patrones de Diseño/Patrones GRASP/Polimorfismo.md",
+    "Ejercicios, CP, Parciales y Conferencias/Parciales Anteriores/~$1-Pasado-A.docx",
+    "Ejercicios, CP, Parciales y Conferencias/Parciales Anteriores/TC1-Pasado-B.docx",
+    "Ejercicios, CP, Parciales y Conferencias/Parciales Anteriores/TC1-Pasado-A.docx",
+    "Refactoring~20Guru",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/SOA Ejercicio Integrador.png",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/SOA Ejercicio Integrador 1.png",
     "Contenido/Patrones de Diseño/Patrones GRASP/Imagenes/Pasted image 20240723124145.png",
-    "Ejercicios, CP, Parciales y Conferencias/Conferencias/Conferencias.md",
     "Ejercicios, CP, Parciales y Conferencias/Conferencias/~$C5.pptx",
-    "Contenido/Principios de Diseño/Otros Principios/Diseñar hacia las interfaces, no hacia las implementaciones.md",
     "Ejercicios, CP, Parciales y Conferencias/Conferencias/~$C4.pptx",
-    "Índice Principal.md",
-    "Contenido/Principios de Diseño/Principios SOLID/Única Responsabilidad.md",
-    "Contenido/Principios de Diseño/Principios SOLID/Sustitución de Liskov.md",
-    "Contenido/Principios de Diseño/Principios SOLID/Segregación de Interfaces.md",
-    "Contenido/Principios de Diseño/Principios SOLID/Principios SOLID.md",
-    "Contenido/Principios de Diseño/Principios SOLID/Inversión de Dependencia.md",
-    "Contenido/Principios de Diseño/Otros Principios/Una y solo una regla.md",
-    "Contenido/Principios de Diseño/Otros Principios/Otros Principios.md",
-    "Contenido/Principios de Diseño/Otros Principios/No hables con extraños (Ley de Demeter).md",
-    "Contenido/Principios de Diseño/Otros Principios/Modularidad, Cohesión y Acoplamiento.md",
     "Ejercicios, CP, Parciales y Conferencias/Conferencias/~$C1.pptx",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722224659.png",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722224343.png",
@@ -197,14 +227,9 @@
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722224235.png",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722224134.png",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722224000.png",
-    "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722223656.png",
     "Ejercicios, CP, Parciales y Conferencias/Conferencias/~$C2.ppt",
     "Contenido/Notas de Clases",
     "LICENSE",
-    "Ejercicios, CP, Parciales y Conferencias/Ejercicios/~WRL1632.tmp",
-    "Ejercicios, CP, Parciales y Conferencias/Ejercicios/~WRD1612.tmp",
-    "Ejercicios, CP, Parciales y Conferencias/Ejercicios/~$ercicio-integrador.docx",
-    "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/N-Capa Reutilizacion Eva.jpeg.crdownload",
     "Sin título.canvas"
   ]
 }
