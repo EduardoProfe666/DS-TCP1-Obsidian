@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contenido/Principios de Diseño/Otros Principios/Diseñar hacia las interfaces, no hacia las implementaciones.md",
+                "file": "Contenido/Principios de Diseño/Otros Principios/Otros Principios.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 200
   },
   "right": {
     "id": "523cf2d6a1c552d6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contenido/Principios de Diseño/Otros Principios/Diseñar hacia las interfaces, no hacia las implementaciones.md",
+                "file": "Contenido/Principios de Diseño/Otros Principios/Otros Principios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contenido/Principios de Diseño/Otros Principios/Diseñar hacia las interfaces, no hacia las implementaciones.md",
+                "file": "Contenido/Principios de Diseño/Otros Principios/Otros Principios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contenido/Principios de Diseño/Otros Principios/Diseñar hacia las interfaces, no hacia las implementaciones.md"
+                "file": "Contenido/Principios de Diseño/Otros Principios/Otros Principios.md"
               }
             }
           },
@@ -147,39 +147,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "35db29aa955e4779",
   "lastOpenFiles": [
-    "Contenido/Principios de Diseño/Otros Principios/Diseñar hacia las interfaces, no hacia las implementaciones.md",
-    "Contenido/Principios de Diseño/Otros Principios/Encapsular la variabilidad.md",
-    "Contenido/Principios de Diseño/Principios SOLID/Única Responsabilidad.md",
     "Contenido/Principios de Diseño/Principios SOLID/Sustitución de Liskov.md",
     "Contenido/Principios de Diseño/Principios SOLID/Segregación de Interfaces.md",
     "Contenido/Principios de Diseño/Principios SOLID/Principios SOLID.md",
     "Contenido/Principios de Diseño/Principios SOLID/Open Close.md",
-    "Contenido/Principios de Diseño/Principios SOLID/Inversión de Dependencia.md",
+    "Contenido/Principios de Diseño/Principios SOLID/Inversión de Dependencias.md",
+    "Contenido/Principios de Diseño/Otros Principios/Diseñar hacia las interfaces, no hacia las implementaciones.md",
+    "Contenido/Principios de Diseño/Otros Principios/Modularidad, Cohesión y Acoplamiento.md",
     "Contenido/Principios de Diseño/Otros Principios/Una y solo una regla.md",
     "Contenido/Principios de Diseño/Otros Principios/Otros Principios.md",
     "Contenido/Principios de Diseño/Otros Principios/No hables con extraños (Ley de Demeter).md",
-    "Contenido/Principios de Diseño/Otros Principios/Modularidad, Cohesión y Acoplamiento.md",
     "Contenido/Principios de Diseño/Otros Principios/Hollywood.md",
     "Contenido/Principios de Diseño/Otros Principios/Favorecer composición antes que herencia.md",
+    "Contenido/Principios de Diseño/Otros Principios/Encapsular la variabilidad.md",
+    "Contenido/Principios de Diseño/Principios SOLID/Única Responsabilidad.md",
+    "Contenido/Principios de Diseño/Otros Principios/Imagenes/Pasted image 20240723120514.png",
+    "Índice Principal.md",
+    "Checklist de Cosas Por Completar.md",
+    "Contenido/Cosas de IR/Problemas Frecuentes.md",
+    "Contenido/Patrones de Diseño/Patrones GoF/Refactoring Guru/Refactoring Guru.md",
     "Ejercicios, CP, Parciales y Conferencias/Parciales Anteriores/Parciales.md",
     "Contenido/Patrones de Diseño/Patrones GoF/Mediator.md",
     "Contenido/Patrones de Diseño/Patrones GoF/Visitor.md",
-    "Contenido/Cosas de IR/Problemas Frecuentes.md",
-    "Contenido/Patrones de Diseño/Patrones GoF/Refactoring Guru/Refactoring Guru.md",
-    "Índice Principal.md",
-    "Checklist de Cosas Por Completar.md",
     "Contenido/Patrones de Diseño/Patrones GRASP/Patrones GRASP.md",
     "Contenido/Patrones de Diseño/Patrones GRASP/Bajo Acoplamiento.md",
     "Ejercicios, CP, Parciales y Conferencias/Ejercicios/Ejercicios.md",
@@ -196,7 +197,6 @@
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722223656.png",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722222835.png",
     "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/Pasted image 20240722223151.png",
-    "Contenido/Estilo y Patrones Arquitectónicos/Patrones Arquitectónicos/Imagenes/N-Capa Reutilizacion Eva.png",
     "Ejercicios, CP, Parciales y Conferencias/Conferencias/~$C2.ppt",
     "Contenido/Notas de Clases",
     "LICENSE",
