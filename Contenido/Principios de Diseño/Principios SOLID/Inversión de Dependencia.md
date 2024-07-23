@@ -1,5 +1,0 @@
-## Descripción
-
-
-## Ejemplo
-

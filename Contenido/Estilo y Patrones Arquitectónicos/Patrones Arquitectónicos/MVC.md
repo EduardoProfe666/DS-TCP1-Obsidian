@@ -27,3 +27,20 @@ Se usa cundo existen múltiples formas de ver e interactuar con los datos. Tambi
 ## ¿Cómo se representa?
 
 ![[Pasted image 20240722220922.png]]
+
+## MVC como Antipatrón
+
+Un propósito común de numerosas aplicaciones es el de tomar datos de un almacenamiento y mostrarlos al usuario. Cuando el usuario introduce modificaciones se reflejan en el almacenamiento.
+
+Como solución se sugiere unir ambas piezas para reducir la cantidad de código y optimizar la ejecución porque el flujo de información ocurre entre el almacenamiento y la interfaz.
+
+La programación de interfaz y la lógica de negocios requiere de habilidades distintas.
+
+Las aplicaciones incorporan lógica de negocio que va más allá de la trasmisión de datos.
+
+Principios de diseño que incumple:
+
+•Encapsular la variabilidad
+•Principio Hollywood
+•Single Responsability Principle
+•…
