@@ -39,8 +39,6 @@ La programación de interfaz y la lógica de negocios requiere de habilidades di
 Las aplicaciones incorporan lógica de negocio que va más allá de la trasmisión de datos.
 
 Principios de diseño que incumple:
-
-•Encapsular la variabilidad
-•Principio Hollywood
-•Single Responsability Principle
-•…
+- Encapsular la variabilidad
+- Principio Hollywood
+- Single Responsability Principle
