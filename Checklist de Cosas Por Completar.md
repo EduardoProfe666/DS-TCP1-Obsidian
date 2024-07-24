@@ -3,13 +3,13 @@
 	- [x] [[Estilos Arquitectónicos]]
 	- [x] [[Patrones Arquitectónicos]]
 	- [x] [[Otros Patrones]]
-- [ ] Patrones de Diseño
-	- [ ] [[Patrones GRASP]]
-	- [ ] [[Patrones GoF]]
+- [x] Patrones de Diseño
+	- [x] [[Patrones GRASP]]
+	- [x] [[Patrones GoF]]
 		- [x] [[Refactoring Guru]]
-- [ ] Principios de Diseño
-	- [ ] [[Principios SOLID]]
-	- [ ] [[Otros Principios]]
+- [x] Principios de Diseño
+	- [x] [[Principios SOLID]]
+	- [x] [[Otros Principios]]
 - [x] Cosas de IR
 	- [x] [[Problemas Frecuentes]]
 - [x] Ejercicios, Parciales y Conferencias
