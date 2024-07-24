@@ -1,0 +1,4 @@
+- ### [Estilos y Patrones Arquitectónicos](./Arquitectonicos.docx)
+- ### [Patrones de diseño GoF](./GoF.docx)
+- ### [Patrones de diseño GRASP](./GRASP.docx)
+- ### [Principios de diseño](./Principios.docx)
