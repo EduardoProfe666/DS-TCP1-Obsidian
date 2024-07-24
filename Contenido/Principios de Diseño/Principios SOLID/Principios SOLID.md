@@ -1,5 +1,5 @@
 - ## Principios SOLID
-	- ### [[Inversión de Dependencia]]
+	- ### [[Inversión de Dependencias]]
 	- ### [[Open Close]]
 	- ### [[Segregación de Interfaces]]
 	- ### [[Sustitución de Liskov]]
